@@ -97,7 +97,7 @@ bongo.settings = new Enmap({
 });
 
 const defaultSettings = {
-  prefix: "b!"
+  prefix: "r!"
 }
 
 bongo.on("guildDelete", guild => {
