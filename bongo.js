@@ -626,4 +626,4 @@ function play(guild, song) {
 
 
 //Bot Credentials
-bongo.login(process.env.TOKEN);
+bongo.login(process.env.NjIzMDUzMzAwNjE0Mjk5NjQ4.XZG22A.TninpAyfRVM4oJWOG0i3G1YQiLk);
