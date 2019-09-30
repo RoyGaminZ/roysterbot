@@ -10,7 +10,7 @@ module.exports = (bongo, message) => {
 });
 
 const defaultSettings = {
-  prefix: "b!"
+  prefix: "r!"
 }
 
   const guildConf = bongo.settings.ensure(message.guild.id, defaultSettings);
